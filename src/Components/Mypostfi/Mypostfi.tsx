@@ -3,7 +3,7 @@ import { getUserPostsApi } from "../../Pages/Myposts/Myposts.services";
 import Post from "../../Components/Homefeed/Post";
 import type { IPost } from "../../Components/Homefeed/Homefeed.interface";
 import { UserAuthContext } from "../../Context/UserAuthProvider/UserAuthProvider";
-import Creatpost from "../../Components/Creatpost/Creatpost";
+
  
 
 export default function MyPostsPage() {
